@@ -1,0 +1,34 @@
+:: StoryTitle
+Tweego Parcel Boilerplate
+
+:: Start
+Whoa so fast.
+
+:: StoryData
+{
+	"ifid": "5E4A216E-F722-46CE-890E-3CBF14992EFB",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
+  "start": "Start"
+}
+
+
+::GlobalCSS [stylesheet]
+a {
+    color: #6585e7;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:active {
+    color: #e9897c;
+}
+
+a:hover {
+    color: #00bfff;
+}
+
+a:visited {
+    color: #1c41b0;
+}
+
