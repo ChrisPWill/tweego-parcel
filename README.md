@@ -5,6 +5,7 @@ Development boilerplate including:
 - [tweego](https://www.motoslave.net/tweego) - [Twine](https://twinery.org/)/Twee compiler
 - [Parcel](https://parceljs.org/) - a simple low config bundler
 - A default image and scss file to demonstrate inclusion of media
+- A macro defined in typescript
 
 # Getting started
 
